@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="americanadminagencies.css">
+		<title>All American administraive agencies</title>
+	</head>
+	<header>
+		<h1>All American Administraive Agencies</h1>
+	</header>
+	<body>
+		<section>
+		
+		</section>
+		<div class="agenciepics">
+			<div class="agencie">
+				<a target='_blank' href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Environmental_Protection_Agency_logo.svg/2000px-Environmental_Protection_Agency_logo.svg.png">
+					<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Environmental_Protection_Agency_logo.svg/2000px-Environmental_Protection_Agency_logo.svg.png" width="300" height="200">
+				</a>
+				<div class="agenciedesc">Sun (Sol & Helios)</div>
+			</div>
+		</div>
+	</body>
+	<footer>
+		Made by Joshua Bennett
+	</footer>
+</html>
