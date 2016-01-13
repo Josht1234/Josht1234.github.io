@@ -23,8 +23,10 @@ nav {
 section {
 	font-family: "lucida console";
 	width:800px;
+	height: 830px;
 	float:left;
 	padding:10px;
+	overflow: scroll;
 }
 footer {
 	background-color:black;
