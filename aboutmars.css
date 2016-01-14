@@ -1,34 +1,37 @@
 header {
-	background-color:black;
-	color:white;
+    font-family: "Comic Sans MS";
+	background-color: #230808;
+	color: #D30000;
 	text-align:center;
 	padding:5px;
 }
 body {
 	/* font-family: "lucida console"; */
 	font-size: 14px;
-	background-color:#A9A9A9;
+	background-color:#4A1111;
 	height:auto;
 	margin:auto;
 }
 nav {
-	font-family: "lucida console";
+	font-family: "Comic Sans MS";
 	line-height: 30px;
-	background-color:#A9A9A9;
+	background-color:#4A1111;
 	height:300px;
-	width: 150px;
+	width: 140px;
 	float:left;
 	padding:15px;
 }
 footer {
-	background-color:black;
-	color:white;
+    font-family: "Comic Sans MS";
+	background-color: #230808;
+	color: #D30000;
 	clear:both;
 	text-align:center;
 	padding:5px;
 }
 section {
-	font-family: "lucida console";
+	font-family: "Comic Sans MS";
+    color: #D30000;
 	width:800px;
 	height:830px;
 	float:left;
