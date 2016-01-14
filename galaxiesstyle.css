@@ -1,4 +1,5 @@
 header {
+    font-family: "Comic Sans MS";
 	background-color:black;
 	color:white;
 	text-align:center;
@@ -12,7 +13,7 @@ body {
 	margin:auto;
 }
 nav {
-	font-family: "lucida console";
+	font-family: "Comic Sans MS";
 	line-height: 30px;
 	background-color:#A9A9A9;
 	height:300px;
@@ -21,6 +22,7 @@ nav {
 	padding:15px;
 }
 footer {
+    font-family: "Comic Sans MS";
 	background-color:black;
 	color:white;
 	clear:both;
@@ -28,8 +30,30 @@ footer {
 	padding:5px;
 }
 section {
-	font-family: "lucida console";
+	font-family: "Comic Sans MS";
 	width:800px;
+	height:830px;
 	float:left;
 	padding:10px;
+	overflow: scroll;
+}
+div.galaxy {
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 180px;
+}
+div.galaxy:hover{
+	border: 1px solid #777;
+}
+div.galaxy img {
+	width: 100%;
+	height: 200px;
+}
+div.galaxydesc {
+	padding: 15px;
+	text-align: center;
+}
+div.galaxypics {
+	font-family: "Comic Sans MS";
 }
