@@ -38,6 +38,9 @@ section {
 	padding:10px;
 	overflow: scroll;
 }
+a {
+  color: #D30000;
+ }
 div.wierduniverse {
 	margin: 5px;
 	border: 1px solid #ccc;

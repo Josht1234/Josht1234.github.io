@@ -29,6 +29,9 @@ footer {
 	text-align:center;
 	padding:5px;
 }
+a {
+  color: #D30000;
+ }
 section {
 	font-family: "Comic Sans MS";
     color: #D30000;

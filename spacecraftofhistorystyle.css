@@ -5,6 +5,9 @@ header {
 	text-align:center;
 	padding:5px;
 }
+a {
+  color: #D30000;
+ }
 body {
 	/* font-family: "lucida console"; */
 	font-size: 14px;
