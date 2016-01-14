@@ -54,6 +54,7 @@ div.planet img {
 div.planetdesc {
 	padding: 15px;
 	text-align: center;
+    color: #D30000;
 }
 div.allplanet {
 	font-family: "lucida console";
