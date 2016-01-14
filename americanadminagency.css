@@ -1,26 +1,64 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<link rel="stylesheet" type="text/css" href="americanadminagencies.css">
-		<title>All American administraive agencies</title>
-	</head>
-	<header>
-		<h1>All American Administraive Agencies</h1>
-	</header>
-	<body>
-		<section>
-		
-		</section>
-		<div class="agenciepics">
-			<div class="agencie">
-				<a target='_blank' href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Environmental_Protection_Agency_logo.svg/2000px-Environmental_Protection_Agency_logo.svg.png">
-					<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Environmental_Protection_Agency_logo.svg/2000px-Environmental_Protection_Agency_logo.svg.png" width="300" height="200">
-				</a>
-				<div class="agenciedesc">Sun (Sol & Helios)</div>
-			</div>
-		</div>
-	</body>
-	<footer>
-		Made by Joshua Bennett
-	</footer>
-</html>
+header {
+    font-family: "Comic Sans MS";
+	background-color: #181818;
+	color: #D30000;
+	text-align:center;
+	padding:5px;
+}
+a {
+  color: #D30000;
+ }
+body {
+	/* font-family: "lucida console"; */
+	font-size: 14px;
+	background-color:#909090;
+	height:auto;
+	margin:auto;
+}
+nav {
+	font-family: "Comic Sans MS";
+	line-height: 30px;
+	background-color:#909090;
+	height:300px;
+	width: 140px;
+	float:left;
+	padding:15px;
+}
+footer {
+    font-family: "Comic Sans MS";
+	background-color: #181818;
+	color: #D30000;
+	clear:both
+	text-align:center;
+	padding:5px;
+}
+section {
+	font-family: "Comic Sans MS";
+    color: #00FFFF;
+	width:800px;
+	height:830px;
+	float:left;
+	padding:10px;
+	overflow: scroll;
+}
+div.agency {
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 180px;
+}
+div.agency:hover{
+	border: 1px solid #777;
+}
+div.agency img {
+	width: 100%;
+	height: 200px;
+}
+div.agencydesc {
+	padding: 15px;
+	text-align: center;
+    color: #D30000;
+}
+div.agencypics {
+	font-family: "Comic Sans MS";
+}
